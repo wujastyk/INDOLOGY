@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wujastyk.github.io/sushrutaproject2.0//sitemap.xml
+Sitemap: https://wujastyk.github.io/sitemap.xml
