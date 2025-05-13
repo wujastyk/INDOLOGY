@@ -9,9 +9,9 @@ profile:
   image: KL699-11r.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>MS Kathmandu Kaiser Library 600</p>
+    <p>Extract of folio 11r,</p>
+    <p>containing the start of sūtrasthāna 12 on cauterization.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
