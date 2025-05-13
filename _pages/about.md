@@ -29,6 +29,8 @@ latest_posts:
 
 The present project is built on the original [Suśruta Project](http://sushrutaproject.org). 
 
+Funding for this project is generously provided by an Insight Grant from the Canadian SSHRC.
+
 The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
