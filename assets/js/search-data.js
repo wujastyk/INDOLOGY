@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-suśruta-project-2-0-the-suśrutasaṃhitā-in-time-and-space",
-    title: "Suśruta Project 2.0: The Suśrutasaṃhitā in Time and Space",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/sushrutaproject2.0/";
