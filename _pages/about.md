@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "Suśruta Project 2.0: The Suśrutasaṃhitā in Time and Space"
+title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
