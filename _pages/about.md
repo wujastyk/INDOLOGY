@@ -1,6 +1,6 @@
 ---
 layout: about
-title: blank
+title: home
 permalink: /
 subtitle: A Project at the University of Alberta
 
