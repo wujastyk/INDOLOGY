@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject2.0/blog/";
               },
-            },{id: "post-graph-of-frequency-time-of-dated-ss-manuscripts-intertextuality-and-the-methods-of-diagnosis",
+            },{id: "post-ai-generated-promotional-video-of-diagnosis",
+        
+          title: "AI Generated promotional video of Diagnosis",
+        
+        description: "promotional video",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/sushrutaproject2.0/blog/2025/promotional-video/";
+          
+        },
+      },{id: "post-graph-of-frequency-time-of-dated-ss-manuscripts-intertextuality-and-the-methods-of-diagnosis",
         
           title: "Graph of frequency / time of dated SS manuscripts Intertextuality and the Methods...",
         
