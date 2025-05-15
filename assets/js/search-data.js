@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject2.0/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-intertextuality-and-the-methods-of-diagnosis",
         
-          title: "a post with plotly.js",
+          title: "Intertextuality and the Methods of Diagnosis",
         
-        description: "this is what included plotly.js code could look like",
+        description: "on the relationship between the Suśrutasaṃhitā and the Carakasaṃhitā",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/sushrutaproject2.0/blog/2025/plotly/";
+            window.location.href = "/sushrutaproject2.0/blog/2025/intertextuality/";
           
         },
       },{id: "post-a-post-with-image-galleries",
