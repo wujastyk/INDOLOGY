@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sushrutaproject2.0/publications/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "members of the project",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/sushrutaproject2.0/people/";
+          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
