@@ -44,9 +44,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject2.0/blog/";
               },
-            },{id: "post-ai-generated-promotional-video-of-diagnosis",
+            },{id: "post-ai-generated-promotional-video",
         
-          title: "AI Generated promotional video of Diagnosis",
+          title: "AI Generated promotional video",
         
         description: "promotional video",
         section: "Posts",
