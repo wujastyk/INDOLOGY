@@ -124,7 +124,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-project-overview",
           title: 'Project overview',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/sushrutaproject2.0/projects/ss_project/";
             },},{
