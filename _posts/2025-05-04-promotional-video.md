@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI Generated promotional video
+title: Promotional video for the project (AI generated)
 date: 2025-05-04 14:24:00
 description: promotional video
 tags: Suśruta outreach
