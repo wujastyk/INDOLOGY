@@ -174,6 +174,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/sushrutaproject2.0/projects/9_project/";
+            },},{id: "projects-project-overview",
+          title: 'Project overview',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/sushrutaproject2.0/projects/ss_project/";
             },},{
         id: 'social-email',
         title: 'email',
