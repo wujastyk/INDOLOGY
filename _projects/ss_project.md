@@ -1,21 +1,18 @@
 ---
 layout: page
 title: Project overview
-description: with background image
+description: 
 img: assets/img/KL699-11r.png
 importance: 1
 category: work
 related_publications: true
 ---
-
-
-
 The *Compendium of Suśruta* (*Suśrutasaṃhitā*) is a world classic of ancient 
-medicine, comparable in age and importance to the Hippocratic Corpus and 
-the *Huangdi Neijing*. It is a substantial treatise written in the Sanskrit 
-language presenting a systematic, scholarly form of medicine for diagnosing 
+medicine, comparable in age and importance to the Greek Hippocratic Corpus and 
+the Chinese *Huangdi Neijing*. It is a substantial treatise of 186 chapters, written in the Sanskrit 
+language, that presents a systematic, scholarly form of medicine for diagnosing 
 and treating the many ailments that patients presented in South Asia two 
-thousand years ago. It is one of the founding treatises of Ayurveda, the 
+thousand years ago. It is one of the founding treatises of Ayurveda, "The Knowledge of Life", the 
 indigenous medical system of South Asia, and it still informs indigenous 
 medical practice in India and Ayurvedic complementary and alternative 
 medical practice internationally. The *Compendium* is perhaps most famous 
