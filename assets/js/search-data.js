@@ -44,9 +44,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject2.0/blog/";
               },
-            },{id: "post-ai-generated-promotional-video",
+            },{id: "post-promotional-video-for-the-project-ai-generated",
         
-          title: "AI Generated promotional video",
+          title: "Promotional video for the project (AI generated)",
         
         description: "promotional video",
         section: "Posts",
