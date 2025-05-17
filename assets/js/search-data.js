@@ -23,16 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sushrutaproject2.0/publications/";
           },
-        },{id: "nav-project",
-          title: "project",
-          description: "project overview",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/sushrutaproject2.0/project/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-project-overview",
+          title: "project overview",
+          description: "project subsections",
           section: "Navigation",
           handler: () => {
             window.location.href = "/sushrutaproject2.0/projects/";
