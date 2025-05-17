@@ -28,5 +28,9 @@ latest_posts:
 
 The present project is built on the original [Suśruta Project](http://sushrutaproject.org). 
 
-Funding for this project is generously provided by an Insight Grant from the Canadian SSHRC.
+Funding for this project is generously provided by an Insight Grant from the Canadian SSHRC, and runs from 2025-2029.
+
+
+
+
 
