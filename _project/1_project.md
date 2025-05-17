@@ -2,80 +2,69 @@
 layout: page
 title: Project overview
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/KL699-11r.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The *Compendium of Suśruta* (*Suśrutasaṃhitā*) is a world classic of ancient 
+medicine, comparable in age and importance to the Hippocratic Corpus and 
+the *Huangdi Neijing*. It is a substantial treatise written in the Sanskrit 
+language presenting a systematic, scholarly form of medicine for diagnosing 
+and treating the many ailments that patients presented in South Asia two 
+thousand years ago. It is one of the founding treatises of Ayurveda, the 
+indigenous medical system of South Asia, and it still informs indigenous 
+medical practice in India and Ayurvedic complementary and alternative 
+medical practice internationally. The *Compendium* is perhaps most famous 
+amongst historians of medicine for its passages describing remarkable forms 
+of surgery some of which were witnessed by British surgeons in India in the 
+eighteenth century and subsequently formed the basis of certain types of 
+facial reconstruction as practised even today.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The *Compendium of Suśruta* has a complicated and flawed history of 
+transmission and scribal corruption. The poor state of the text creates 
+challenges not only for the historian of medicine but also for patients who are 
+still treated by Ayurvedic doctors today who use *The Compendium* as a living 
+medical textbook.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+A stunning discovery in 2007 brought a new excitement and opportunities to 
+the subject. The Nepal-German Manuscript Cataloguing Project at Hamburg 
+University announced the discovery in the Kathmandu library of Kaiser 
+Shamsher Jang Bahadur Rana (1892--1964), a former Prime Minister of Nepal, 
+of a palm-leaf manuscript of The Compendium of Suśruta that is reliably 
+datable to 878 CE. UNESCO has added this manuscript to the "Memory of the 
+World" register. This manuscript pushes our physical evidence for the treatise 
+back by a millennium. Detailed study of this thousand-year-old manuscript 
+during [The Suśruta Project](http://sushrutaproject.org) (2020-2024) revealed a much earlier stage of the work's 
+textual development and has placed our historical understanding of this Asian 
+medical classic on a new foundation. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+This recent research has also revealed that at some time after the ninth 
+century, an aggressive campaign of editorial revision was applied to *The* 
+*Compendium*, pervasively altering the text and generating the vulgate 
+version that we know from printed editions today.  The present project will 
+undertake detailed work based on much wider manuscript evidence in order 
+to map the textual evolution of this Classic in time and across the local 
+regions of South and SE Asia using traditional historical and philological 
+methods coupled with the methods of computerized cladistic analysis. The 
+latter methods will allow fine control over the expected large volume of 
+differential data between the manuscripts, and enable the generation of 
+historical trees of relationship. The project will also transcribe and edit 
+previously unstudied medieval commentaries on *The Compendium* including 
+the surviving fragments of commentaries by Jejjaṭa (fl. ca. 800), Candraṭa (fl. 
+ca. 900), and Gayadāsa (fl. ca. 1000).  A strong hypothesis is that Candraṭa in 
+particular was a key contributor to the rewriting of *The Compendium,* but this 
+needs to be tested through detailed study.  None of these commentaries has 
+previously been published or studied.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+The goal is to develop a fresh understanding of ancient South Asian medicine 
+based on the new evidence. We will be especially focussed on highlighting 
+the textual and doctrinal differences between *The Compendium* as it existed 
+in 878 CE and the later vulgate version. Project outcomes will include critical 
+editions and translations of the main text and its commentaries, studies of 
+the transmission of scientific ideas within South Asia as well as to China and 
+South East Asia, and outreach to contemporary consumers of indigenous 
+medicine.
