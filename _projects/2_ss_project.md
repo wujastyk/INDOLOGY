@@ -19,7 +19,8 @@ related_publications: false
     <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/SS_MSS_Europe_map.png" title="MSS in India" class="img-fluid rounded z-depth-1" %}
-  </div>    
+  </div>  
+  </div>
     And a few leaves of one MS are in Los Angeles in the USA. 
 
 Here is a [Google map with these locations plotted](https://www.google.com/maps/d/u/0/edit?mid=196xRPRGdywqXq0Tzqjnc_C4DOZEIQ4U&usp=sharing).
