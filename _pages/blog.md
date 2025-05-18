@@ -8,7 +8,7 @@ pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 3
   sort_field: date
   sort_reverse: true
   trail:
@@ -24,8 +24,7 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+ <h3>Project plog posts</h3>
   </div>
   {% endif %}
 
@@ -82,7 +81,7 @@ pagination:
                       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
                     {% endif %}
                     {% assign year = post.date | date: "%Y" %}
-
+    
                     <p class="post-meta">
                       {{ read_time }} min read &nbsp; &middot; &nbsp;
                       <a href="{{ year | prepend: '/blog/' | relative_url }}">
@@ -108,9 +107,9 @@ pagination:
     {% else %}
       {% assign postlist = site.posts %}
     {% endif %}
-
+    
     {% for post in postlist %}
-
+    
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% else %}
@@ -119,7 +118,7 @@ pagination:
     {% assign year = post.date | date: "%Y" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
-
+    
     <li>
 
 {% if post.thumbnail %}
@@ -161,7 +160,7 @@ pagination:
               {% endunless %}
               {% endfor %}
           {% endif %}
-
+    
           {% if categories != "" %}
           &nbsp; &middot; &nbsp;
             {% for category in post.categories %}
