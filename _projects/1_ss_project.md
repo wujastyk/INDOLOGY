@@ -4,7 +4,7 @@ title: Project summary
 description: 
 img: assets/img/KL699-11r.png
 importance: 1
-category: work
+category: tasks
 related_publications: false
 ---
 
