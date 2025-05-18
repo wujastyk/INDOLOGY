@@ -4,7 +4,7 @@ title: Manuscript discovery
 description: 
 img: assets/img/KL699-11r.png
 importance: 1
-category: work
+category: 
 related_publications: false
 ---
 * How many manuscripts of the *Compendium of Suśruta* survive from ancient and pre-modern India?  At the present time, we think that there are over 200 surviving manuscripts that are called “*Suśrutasaṃhitā*” in various library catalogues and listings.  However, most of these are not complete copies of the whole text.  A small proportion, perhaps 20%, are dated.
