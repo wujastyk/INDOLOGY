@@ -37,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sushrutaproject2.0/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/sushrutaproject2.0/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/sushrutaproject2.0/blog/";
-              },
-            },{id: "post-promotional-video-for-the-project-ai-generated",
+        },{id: "post-promotional-video-for-the-project-ai-generated",
         
           title: "Promotional video for the project (AI generated)",
         
