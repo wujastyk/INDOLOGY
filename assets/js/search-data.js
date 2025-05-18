@@ -108,11 +108,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-overview",
-          title: 'Project overview',
+          section: "News",},{id: "projects-project-summary",
+          title: 'Project summary',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/sushrutaproject2.0/projects/ss_project/";
+              window.location.href = "/sushrutaproject2.0/projects/1_ss_project/";
+            },},{id: "projects-manuscript-discovery",
+          title: 'Manuscript discovery',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/sushrutaproject2.0/projects/2_ss_project/";
             },},{
         id: 'social-email',
         title: 'email',
