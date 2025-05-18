@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Project overview
+title: Project summary
 description: 
 img: assets/img/KL699-11r.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 The *Compendium of Suśruta* (*Suśrutasaṃhitā*) is a world classic of ancient 
 medicine, comparable in age and importance to the Greek Hippocratic Corpus and 
