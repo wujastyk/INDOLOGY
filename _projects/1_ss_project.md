@@ -7,6 +7,7 @@ importance: 1
 category: work
 related_publications: false
 ---
+
 The *Compendium of Suśruta* (*Suśrutasaṃhitā*) is a world classic of ancient 
 medicine, comparable in age and importance to the Greek Hippocratic Corpus and 
 the Chinese *Huangdi Neijing*. It is a substantial treatise of 186 chapters, written in the Sanskrit 
