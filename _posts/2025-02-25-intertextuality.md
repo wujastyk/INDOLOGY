@@ -9,6 +9,6 @@ chart:
   plotly: false
 ---
 
-In the standard, printed edition or vulgate text of the Suśrutasaṃhitā, chapter ten of the Sūtrasthāna is dedicated to the topic of becoming a professional physician (Ācārya, 1938, 42). 
+In the standard, printed edition or vulgate text of the Suśrutasaṃhitā, chapter ten of the Sūtrasthāna is dedicated to the topic of becoming a professional physician (Ācārya, 1938, 42).
 
 Click [here](https://sushrutaproject.org/2025/02/25/intertextuality-and-the-methods-of-diagnosis/) to read more.

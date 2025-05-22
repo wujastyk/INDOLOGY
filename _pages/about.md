@@ -26,11 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The present project is built on the original [Suśruta Project](http://sushrutaproject.org). 
+The present project is built on the original [Suśruta Project](http://sushrutaproject.org).
 
 Funding for this project is generously provided by an Insight Grant from the Canadian SSHRC, and runs from 2025-2029.
 
-The project’s goal is to develop a fresh understanding of ancient South Asian medicine based on new evidence from a close study of the evolution of the *Compendium of Suśruta* between the ninth century and the nineteenth century. We will be especially focussed on highlighting the textual and doctrinal differences between *The Compendium* as it existed in 878 CE and the later vulgate version. Project outcomes will include critical editions and translations of the main text and its commentaries, studies of the transmission of scientific ideas within South Asia as well as to China and South East Asia, and outreach to contemporary consumers of indigenous medicine.
-
-
-
+The project’s goal is to develop a fresh understanding of ancient South Asian medicine based on new evidence from a close study of the evolution of the _Compendium of Suśruta_ between the ninth century and the nineteenth century. We will be especially focussed on highlighting the textual and doctrinal differences between _The Compendium_ as it existed in 878 CE and the later vulgate version. Project outcomes will include critical editions and translations of the main text and its commentaries, studies of the transmission of scientific ideas within South Asia as well as to China and South East Asia, and outreach to contemporary consumers of indigenous medicine.

@@ -3,7 +3,7 @@ layout: post
 title: Graph of frequency / time of dated SS manuscripts Intertextuality and the Methods of Diagnosis
 date: 2025-04-26 14:24:00
 description: manuscripts and their dates
-tags: Suśruta manuscripts 
+tags: Suśruta manuscripts
 categories: project-blog-posts
 chart:
 ---
