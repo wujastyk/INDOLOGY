@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project overview
+title: project components
 permalink: /projects/
-description: project subsections
+description: 
 nav: true
 nav_order: 3
 display_categories: [tasks]

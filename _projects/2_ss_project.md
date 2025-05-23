@@ -13,4 +13,6 @@ related_publications: false
 
 - Where are these manuscripts found? They are kept in libraries all over India, with a few in Europe and one in the USA, as can be seen in this map (yellow=1-5 MSS, green=6-10 MSS, blue=11-15 MSS, red=16+):
 
+   <div align="center">
    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=196xRPRGdywqXq0Tzqjnc_C4DOZEIQ4U&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+   </div>
