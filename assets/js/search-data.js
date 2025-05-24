@@ -128,8 +128,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/4_ss_project_diplomatic/";
-            },},{id: "projects-edition-of-the-nepalese-version-of-the-compendium-of-suśruta",
-          title: 'Edition of the Nepalese version of the Compendium of Suśruta',
+            },},{id: "projects-edition-of-the-nepalese-version",
+          title: 'Edition of the Nepalese version',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/5_ss_project_edition/";
