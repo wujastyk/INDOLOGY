@@ -118,6 +118,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/2_ss_project/";
+            },},{id: "projects-manuscripts-in-time",
+          title: 'Manuscripts in Time',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/website/projects/3_ss_project/";
             },},{
         id: 'social-email',
         title: 'email',
