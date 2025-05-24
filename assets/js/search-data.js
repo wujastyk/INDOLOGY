@@ -128,8 +128,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/4_ss_project_diplomatic/";
-            },},{id: "projects-diplomatic-transcription-of-ms-kathmandu-kl-699",
-          title: 'Diplomatic transcription of MS Kathmandu KL 699',
+            },},{id: "projects-edition-of-the-nepalese-version-of-the-compendium-of-suśruta",
+          title: 'Edition of the Nepalese version of the _Compendium of Suśruta_',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/5_ss_project_edition/";
