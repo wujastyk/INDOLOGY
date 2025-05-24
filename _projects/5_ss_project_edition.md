@@ -8,7 +8,9 @@ category: tasks
 related_publications: false
 ---
 
-For full information on the interactive online edition of the _Compendium_, see the documentation and links at [Saktumiva](https://saktumiva.org/wiki/wujastyk/susrutasamhita/start).  Some chapters are unedited or lightly-edited collations of the manuscript evidence.  Others are fully-considered editions.  Here are direct links to the parts of the work:
+For full information on the interactive online edition of the _Compendium_, see the documentation and links at [Saktumiva](https://saktumiva.org/wiki/wujastyk/susrutasamhita/start). Links to individual adhyāyas are provided there. 
+
+Some chapters are unedited or lightly-edited collations of the manuscript evidence.  Others are fully-considered editions.  Here are direct links to the parts of the work:
 
 1. Sūtrasthāna [chapters 1-31](https://saktumiva.org/wiki/wujastyk/susrutasamhita/01-su.su-1-31/provisional-edition_sutrasthana-1-31), [32-46](https://saktumiva.org/wiki/wujastyk/susrutasamhita/01-su.su-32-end/provisional-edition_sutrasthana-32-end) 
 2. [Nidānasthāna](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana) 
