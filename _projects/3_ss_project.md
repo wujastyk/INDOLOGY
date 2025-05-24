@@ -11,6 +11,4 @@ related_publications: false
 - How old are the surviving manuscripts of the _Compendium of Suśruta_?
   Out of the approximately 220 surviving manuscripts of the work, forty-five are dated. The following chart shows their distribution in across time.
 
-  <p align="center">
-        <img src="assets/img/SS_dated_manuscripts.png" width="75%">
-  </p>
+{% include figure.liquid loading="eager" path="assets/img/SS_dated_manuscripts.png" title="Distribution of MSS in time." class="img-fluid rounded z-depth-1" %}
