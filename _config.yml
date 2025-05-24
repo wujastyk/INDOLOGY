@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: The Suśrutasaṃhitā in Time and Space # the website title (if blank, full name will be used instead)
+title: Mapping a Medical Tradition: The Compendium of Susruta in Time and Space # the website title (if blank, full name will be used instead)
 first_name: Dominik
 # middle_name: L.
 last_name: Wujastyk
@@ -13,10 +13,10 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 𑗕 # the emoji used as the favicon (alternatively, provide image name in /assets/img/) (from the Siddham unicode block)
 
 url: https://sushrutaproject2.github.io # the base hostname & protocol for your site
 baseurl: /website # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -99,7 +99,7 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 3
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -136,7 +136,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 newsletter:
-  enabled: false
+  enabled: true
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
@@ -270,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wujastyk]
+  first_name: [Dominik]
 
   style: apa
   locale: en
