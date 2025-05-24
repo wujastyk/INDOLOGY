@@ -123,6 +123,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/3_ss_project/";
+            },},{id: "projects-diplomatic-transcription-of-ms-kathmandu-kl-699",
+          title: 'Diplomatic transcription of MS Kathmandu KL 699',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/website/projects/4_ss_project%20diplomatic/";
             },},{
         id: 'social-email',
         title: 'email',
