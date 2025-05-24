@@ -2,7 +2,7 @@
 layout: page
 title: Diplomatic transcription of MS Kathmandu KL 699
 description:
-img: assets/img/KL699-11r.png
+img: assets/img/diplomatic_transcription.png
 importance: 1
 category: tasks
 related_publications: false
