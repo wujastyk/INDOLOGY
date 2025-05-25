@@ -112,17 +112,17 @@ ninja.data = [{
           title: 'Project summary',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/1_ss_project/";
+              window.location.href = "/website/projects/1_ss_project_overview/";
             },},{id: "projects-manuscripts-in-space",
           title: 'Manuscripts in space',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/2_ss_project/";
+              window.location.href = "/website/projects/2_ss_MS_mapping/";
             },},{id: "projects-manuscripts-in-time",
           title: 'Manuscripts in Time',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/3_ss_project/";
+              window.location.href = "/website/projects/3_ss_MS_timeline/";
             },},{id: "projects-diplomatic-transcription-of-ms-kathmandu-kl-699",
           title: 'Diplomatic transcription of MS Kathmandu KL 699',
           description: "",
