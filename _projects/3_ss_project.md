@@ -16,8 +16,8 @@ Out of the approximately 220 surviving manuscripts of the work, forty-five, or 2
     <div class="col-sm">
 {% include figure.liquid loading="eager" path="assets/img/SS_dated_manuscripts.png" title="Distribution of MSS in time." class="img-fluid rounded z-depth-1" %}
     </div>
-     <div class="col-sm">
-The most striking result is the gap between the oldest manuscript (878 CE) and all the rest.  This lone manuscript, Kathmandu KL 699, is truly an outlier.  It gives us physical evidence for the state of the _Compendium of Suśruta_ over a thousand years before the present, and half a millennium before the next-oldest known manuscript.  It is hard to overstate the importance of KL 699 for the history of medicine.
+     <div class="col">
+The most striking result is the gap between the oldest manuscript (878 CE) and all the rest.  This lone manuscript, Kathmandu KL 699, is truly an outlier.  It gives us physical evidence for the state of the Compendium of Suśruta over a thousand years before the present, and half a millennium before the next-oldest known manuscript.  It is hard to overstate the importance of KL 699 for the history of medicine.
     </div>
 </div>
 
