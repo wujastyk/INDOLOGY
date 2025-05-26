@@ -3,8 +3,8 @@ layout: post
 title: Promotional video for the project (AI generated)
 date: 2025-05-04 14:24:00
 description: promotional video
-tags: Suśruta outreach
-categories: project-blog-posts
+tags: Suśruta links
+categories: 
 chart:
 ---
 
