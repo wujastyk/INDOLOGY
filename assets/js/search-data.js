@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-the-compendium-of-suśruta-in-time-and-space",
-    title: "The Compendium of Suśruta in Time and Space",
+    id: "nav-home",
+    title: "home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/website/";
