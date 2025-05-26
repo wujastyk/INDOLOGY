@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: X
 permalink: /
 subtitle: Mapping a Medical Tradition
 
