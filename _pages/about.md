@@ -1,6 +1,6 @@
 ---
 layout: about
-title: The Compendium of Suśruta in Time and Space
+title: home
 permalink: /
 subtitle: Mapping a Medical Tradition
 
