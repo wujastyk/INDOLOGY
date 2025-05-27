@@ -67,17 +67,6 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/intertextuality/";
-          
-        },
-      },{id: "post-intertextuality-and-the-methods-of-diagnosis",
-        
-          title: "Intertextuality and the Methods of Diagnosis",
-        
-        description: "on the relationship between the Suśrutasaṃhitā and the Carakasaṃhitā",
-        section: "Posts",
-        handler: () => {
-          
             window.location.href = "/website/blog/2025/intertextuality-full/";
           
         },
