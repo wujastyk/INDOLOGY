@@ -26,3 +26,12 @@ latest_posts:
 ---
 
 This website is an adjunct to the INDOLOGY online discussion forum for  Classical South Asian studies.  The forum was founded in 1990 by Dominik Wujastyk as a medium for exchange and debate by university-level  research scholars. Since July 2001 the forum has been managed by a  committee of active Indologists. 
+
+## Resources hosted by INDOLOGY
+
+* [Scanned Indian manuscript catalogues](https://indology.info/scanned-catalogues/) 
+* [SARIT: Search and Retrieval of Indic Texts](http://sarit.indology.info/) 
+* [Bombay: John Smith’s Indic home page](https://bombay.indology.info/) 
+* [Sanskrit publishers’ vocabulary](https://indology.info/sanskrit-publishers-vocabulary/) 
+* [The old INDOLOGY website (archived)](https://web.archive.org/web/20230000000000*/indology.info)
+* [Online issues of Indological journals](https://cikitsa.blogspot.com/2018/04/online-issues-of-indological-journals.html)
