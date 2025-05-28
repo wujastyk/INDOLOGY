@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: The Compendium of Suśruta in Time and Space # the website title (if blank, full name will be used instead)
-first_name: Dominik
+title: INDOLOGY # the website title (if blank, full name will be used instead)
+first_name: 
 # middle_name: L.
-last_name: Wujastyk
+last_name: 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -13,10 +13,9 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  A project at the <a href="https://ualberta.ca/" target="_blank">University of Alberta</a> funded by <a href="https://www.sshrc-crsh.gc.ca/" target="_blank">SSHRC</a> IG grant 435-2025-0604. 
-keywords: Suśruta, Suśrutasaṃhitā, Āyurveda, India, Sanskrit, History of medicine # add your own keywords or leave empty
+keywords: Indology,, India, Sanskrit, Cultural history # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 𑗕 # the emoji used as the favicon (alternatively, provide image name in /assets/img/) (from the Siddham unicode block)
+icon: indo-logo-1.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/) (from the Siddham unicode block)
 
 url: https://wujastyk.github.io # the base hostname & protocol for your site
 baseurl: /INDOLOGY # the subpath of your site, e.g. /blog/. Leave blank for root
